@@ -1,0 +1,62 @@
+html {
+    height: 100%;
+  }
+  
+  body {
+    margin: 0;
+    height: 100%;
+    font-family: helvetica;
+  }
+  
+  
+  header {
+    padding: 10px;
+    color: orangered;
+    font-weight: bold;
+    text-align: center;
+  }
+
+   body {
+       Background-color: Green;
+       font-family: helvetica;
+       font-size: 20px;
+   }
+  nav {
+    width: 200px;
+    height: 100%;
+    float: left; /* don't modify */
+    background-color: gray;
+    margin-right: 20px;
+  }
+
+  nav ul {
+    list-style: none;
+  }
+  
+  nav ul li {
+    margin-bottom: 10px;
+  }
+  
+  section {
+    width: 500px;
+    float: left; /* don't modify */
+    padding: 5px;
+  }
+  
+#Ad {
+    float: right;
+    Height: 100%;
+    width: 200px;
+
+}
+
+  footer {
+    clear: left; /* don't modify */
+    padding: 10px;
+    text-align: center;
+  }
+
+  p { 
+      float: none;
+      margin-left: 100px;
+  }
